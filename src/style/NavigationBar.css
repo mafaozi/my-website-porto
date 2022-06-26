@@ -1,0 +1,13 @@
+.NavigationBar{
+    height: 50px;
+    background-color: #031c2b;
+    position: fixed top;
+}
+
+.NavContainer{
+    margin-top: 50px;
+}
+
+.NavLink {
+    margin-left: 20px ;
+}
